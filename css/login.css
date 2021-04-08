@@ -1,0 +1,46 @@
+.login_estilo {
+    background-color: #ecf0f1;
+    text-align: center;
+    padding: 50px 0;
+    font-family: sans-serif;
+}
+
+.caixa_login {
+    display: inline-block;
+    background-color: white;
+    box-shadow: 3px 3px 5px 2px #ccc;
+    padding: 60px 20px 0px 20px;
+    border-radius: 20px;
+    width: 400px;
+}
+
+.caixa_login h1 {
+    text-align: center;
+    color: black;
+}
+
+.caixa_login input {
+    width: 50%;
+    display: inline-block;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+
+.btn_entrar {
+    background-color: green;
+    /*color: white;*/
+    border-radius: 5px;
+    border: 0;
+    margin: 20px 0 50px 0;
+    cursor: pointer;
+}
+
+/* .footer {
+    background-color : orangered;
+    height: 200px;
+    text-align: center;
+} 
+*/
+
