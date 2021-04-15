@@ -1,0 +1,41 @@
+body {
+    background-color: #ecf0f1;
+}
+
+.cadastro_pag {
+    min-height: 740px;
+}
+
+.caixa_cadastro {
+    margin-left: 40px;
+    width: 90%;
+}
+
+.caixa_cadastro h1 {
+    margin: 50px auto;
+}
+
+.area_cadastro {
+    float: left;
+    width: 51%;
+}
+
+.input {
+    width: 75%;
+    margin-bottom: 20px;
+    padding: 7px 23px;
+}
+
+.btn_cadastrar {
+    background-color: green;
+    color: white;
+    margin: 20px 0 50px 0;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.img_lateral {
+float: right;
+}
